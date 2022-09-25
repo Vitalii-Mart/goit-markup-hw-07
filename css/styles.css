@@ -304,9 +304,9 @@ font-weight: 700;
     color: var(--primary-wite-color);
 } */
 /* Command */
-.command {
+/* .command {
     background-color: var(--secondary-bg-color);
-}
+} */
 /* .command__list{
     display: flex;
     justify-content:space-between;
