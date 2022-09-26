@@ -115,7 +115,7 @@ color: var(--message-text);
     border-radius: 2px;
 }
 
-.register-form__pic--empty{
+.register-form__pic_empty{
 opacity: 1;
 transition: opacity 250ms var(--timing-function);
 
@@ -123,7 +123,7 @@ transition: opacity 250ms var(--timing-function);
     opacity: 0;
 }
 }
-.register-form__pic--filled{
+.register-form__pic_filled{
 opacity: 0;
 transition: opacity 250ms var(--timing-function);
 
